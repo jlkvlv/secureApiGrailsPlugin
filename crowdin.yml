@@ -1,0 +1,3 @@
+files:
+  - source: application. properties
+    translation: '%original_file_name%'
